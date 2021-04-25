@@ -6,7 +6,7 @@ by Leland T. Klauzer
 
 This is a project for a Thinkful engineering bootcamp. I wrote the JavaScript to make three different ciphers encode and decode for a website.  
 
-The website is [here](https://llndklzr.github.io/project-decoder-ring/).
+The live website is [here](https://llndklzr.github.io/project-decoder-ring/).
 
 ## caesar
 
